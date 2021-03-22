@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\obj\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\obj\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\obj\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\obj\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\bin\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.exe
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\bin\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.deps.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\bin\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\bin\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\bin\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\bin\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\obj\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\obj\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia\obj\Debug\netcoreapp3.1\Practica_06_ClasesConstructorHerencia.genruntimeconfig.cache

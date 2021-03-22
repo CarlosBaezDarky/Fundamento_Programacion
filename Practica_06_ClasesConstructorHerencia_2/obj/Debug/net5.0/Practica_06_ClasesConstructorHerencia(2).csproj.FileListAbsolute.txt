@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\bin\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).exe
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\bin\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).deps.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\bin\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\bin\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\bin\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\bin\Debug\net5.0\ref\Practica_06_ClasesConstructorHerencia(2).dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\bin\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).csprojAssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\ref\Practica_06_ClasesConstructorHerencia(2).dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Practica_06_ClasesConstructorHerencia(2)\obj\Debug\net5.0\Practica_06_ClasesConstructorHerencia(2).genruntimeconfig.cache
