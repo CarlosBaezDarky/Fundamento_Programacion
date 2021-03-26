@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\bin\Debug\net5.0\Proyecto_Parcial_2_Empleados.exe
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\bin\Debug\net5.0\Proyecto_Parcial_2_Empleados.deps.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\bin\Debug\net5.0\Proyecto_Parcial_2_Empleados.runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\bin\Debug\net5.0\Proyecto_Parcial_2_Empleados.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\bin\Debug\net5.0\Proyecto_Parcial_2_Empleados.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\bin\Debug\net5.0\ref\Proyecto_Parcial_2_Empleados.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\bin\Debug\net5.0\Proyecto_Parcial_2_Empleados.pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\ref\Proyecto_Parcial_2_Empleados.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Parcial_2_Empleados\obj\Debug\net5.0\Proyecto_Parcial_2_Empleados.genruntimeconfig.cache
