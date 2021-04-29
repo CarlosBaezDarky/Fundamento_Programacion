@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\bin\Debug\net5.0\Proyecto_Final.exe
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\bin\Debug\net5.0\Proyecto_Final.deps.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\bin\Debug\net5.0\Proyecto_Final.runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\bin\Debug\net5.0\Proyecto_Final.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\bin\Debug\net5.0\Proyecto_Final.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\bin\Debug\net5.0\ref\Proyecto_Final.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\bin\Debug\net5.0\Proyecto_Final.pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\ref\Proyecto_Final.dll
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.pdb
+C:\Users\admin\Desktop\GitHub\RepoVisualStudio\Proyecto_Final\obj\Debug\net5.0\Proyecto_Final.genruntimeconfig.cache
