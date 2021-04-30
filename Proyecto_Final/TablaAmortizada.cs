@@ -64,9 +64,13 @@ public class tablaAmortizada
 			if (i == 1)
 			{
 				Console.WriteLine("\n\tMonto del prestamo en RD$\t\t\t\t\t\t" + monto);
+				Console.WriteLine("\t_____________________________________________________________________________________________");
 				Console.WriteLine("\n\tTasa de Porcentaje Anual \t\t\t\t\t\t" + tasaAnual + " %");
+				Console.WriteLine("\t_____________________________________________________________________________________________");
 				Console.WriteLine("\n\tPLazo                    \t\t\t\t\t\t" + plazo);
+				Console.WriteLine("\t_____________________________________________________________________________________________");
 				Console.WriteLine("\n\tValor Cuota              \t\t\t\t\t\t" + Math.Round(cuota, 2));
+				Console.WriteLine("\t_____________________________________________________________________________________________");
 				Console.WriteLine("\n\t\t\t\t\t\tTabla de Amortizacion");
 
 				//Espacio vertical
@@ -75,10 +79,14 @@ public class tablaAmortizada
 			}
 
 			if (i == plazo) salddo = 0;
-			
-            if (i == 1) Console.WriteLine("\tPago\t\tFecha de Pago\t\tCuota\t\tCapital\t\tInteres\t\tBalance");
-            Console.WriteLine("\n\t" + pago + "\t\t" + fechaPago.ToString("d-MMM-yyy") + "\t\t" + Math.Round(cuota, 2) + "\t\t" + this.capital + 
-				"\t\t" + this.interes + "\t\t" + salddo);
+
+			if (i == 1)
+			{
+				Console.WriteLine("\tPago\t\tFecha de Pago\t\tCuota\t\tCapital\t\tInteres\t\tBalance");
+				Console.WriteLine("\t_____________________________________________________________________________________________________");
+			}
+
+			Console.WriteLine("\n\t{0}\t\t{1}\t\t{2}\t\t{3}\t\t{4}\t\t{5}", pago, fechaPago.ToString("d-MMM-yyy"), Math.Round(cuota, 2),this.capital,this.interes, salddo);
 
 		}
 

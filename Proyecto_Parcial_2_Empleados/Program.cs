@@ -4,6 +4,16 @@ namespace Proyecto_Parcial_2_Empleados
 {
     class Program
     {
+        static void PersonalizarVentana()
+        {
+
+            Console.SetWindowSize(80, 20);
+
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+
+            Console.Clear();
+
+        }
         class Empleados
         {
             private string[] nombre = new string[5];
@@ -22,6 +32,7 @@ namespace Proyecto_Parcial_2_Empleados
 
                 bool condicioWhile_2 = true;
 
+                Console.WriteLine("A continuacion se le solicitara ingresar 5 nombres y los sueldos de dichas personas.");
 
                 for (int i = 0; i <= 4; i++)
                 {
@@ -109,9 +120,9 @@ namespace Proyecto_Parcial_2_Empleados
 
                 }
 
-                Console.WriteLine("\nEl empleado con el salario mayor es {0}", nombre[salarioFijo], ".");
+                Console.WriteLine("\nEl empleado con el salario mayor es {0}", nombre[salarioFijo]);
 
-                Console.WriteLine("\nTiene un salario de {0}", salario[salarioFijo], ".");
+                Console.WriteLine("\nTiene un salario de {0}", salario[salarioFijo]);
 
             }
 
@@ -119,11 +130,15 @@ namespace Proyecto_Parcial_2_Empleados
         static void Main(string[] args)
         {
 
+            PersonalizarVentana();
+
             Empleados em = new Empleados();
 
             em.Cargar();
 
             em.SalarioMayor();
+
+            Pausa.PausaFinPrograma();
 
         }
 

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\GitHub\\RepoVisualStudio\\Practica_06_ClasesConstructorHerencia(3)\\Practica_06_ClasesConstructorHerencia_3.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\GitHub\\RepoVisualStudio\\Practica_06_ClasesConstructorHerencia_3\\Practica_06_ClasesConstructorHerencia_3.csproj",
       "projectName": "Practica_06_ClasesConstructorHerencia_3",
-      "projectPath": "C:\\Users\\admin\\Desktop\\GitHub\\RepoVisualStudio\\Practica_06_ClasesConstructorHerencia(3)\\Practica_06_ClasesConstructorHerencia_3.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\GitHub\\RepoVisualStudio\\Practica_06_ClasesConstructorHerencia_3\\Practica_06_ClasesConstructorHerencia_3.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\GitHub\\RepoVisualStudio\\Practica_06_ClasesConstructorHerencia(3)\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\GitHub\\RepoVisualStudio\\Practica_06_ClasesConstructorHerencia_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
