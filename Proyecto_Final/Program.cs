@@ -32,7 +32,6 @@ namespace Consola_Tabla_de_amortizacion
         {
            
             double montoPrestamo = 0, plazoMeses = 0, tasaAnual = 0, cuota, interesMes;
-            double[] evaluadorPrestamos = new double[3] {montoPrestamo, plazoMeses, tasaAnual};
             bool condicionBucle = true;
 
             while (condicionBucle == true)
@@ -46,13 +45,12 @@ namespace Consola_Tabla_de_amortizacion
                 Console.Write("\nTasa de Porcentaje Anual (Debe ser en %): ");
                 double.TryParse(Console.ReadLine(), out tasaAnual);
 
-                calculoPrestamo calPres = new calculoPrestamo();
                 tablaAmortizada tabAmor = new tablaAmortizada();
 
                 if ((montoPrestamo > 0) && (plazoMeses > 0) && (plazoMeses <= 360) && (tasaAnual > 0))
                 {
-                    cuota = calPres.CuotaMensual(montoPrestamo, calPres.InteresMes(tasaAnual), plazoMeses);
-                    interesMes = calPres.InteresMes(tasaAnual);
+                    cuota = tabAmor.CuotaMensual(montoPrestamo, tabAmor.InteresMes(tasaAnual), plazoMeses);
+                    interesMes = tabAmor.InteresMes(tasaAnual);
                     tabAmor.TablaAmortizada(montoPrestamo, tasaAnual, plazoMeses, cuota, interesMes);
                 }
 
